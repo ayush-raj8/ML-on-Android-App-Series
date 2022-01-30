@@ -1,5 +1,5 @@
-# ML-on-Mobile-App-Yard
-ML-on-Mobile-App-Yard is a complete machine learning in android projects playlist, in which any one can find machine learning/deep learning/NLP/CV project with complete backend and frontend on Android App
+# AI in Android App Series
+AI in Android App Seriesis a complete machine learning in android projects playlist, in which any one can find machine learning/deep learning/NLP/CV project with complete backend and frontend on Android App
 
 # Krishi-Lens
 <p align="center">
