@@ -1,0 +1,4 @@
+Image Based Projects
+1) Krishi Lens - An android app that detects diseases in tomatao, potato, rice and cassava leaves. (All dataset is on kaggle).
+2) Lungs X Ray - An android App that tells from an xray image if lungs is healthy,has covid or has pneumonia. (Kaggle DataSet)
+3) More Ideas are welcome
