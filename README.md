@@ -5,10 +5,10 @@ AI in Android App Seriesis a complete machine learning in android projects playl
 <p align="center">
   
 
- ![Issues](https://img.shields.io/github/issues/ayush-raj8/Tflite-Android)
-![Pull Requests](https://img.shields.io/github/issues-pr/ayush-raj8/Tflite-Android)
-![Forks](https://img.shields.io/github/forks/ayush-raj8/Tflite-Android)
-![Stars](https://img.shields.io/github/stars/ayush-raj8/Tflite-Android)
+ ![Issues](https://img.shields.io/github/issues/ayush-raj8/ML-on-Android-App-Series)
+![Pull Requests](https://img.shields.io/github/issues-pr/ayush-raj8/ML-on-Android-App-Series)
+![Forks](https://img.shields.io/github/forks/ayush-raj8/ML-on-Android-App-Series)
+![Stars](https://img.shields.io/github/stars/ayush-raj8/ML-on-Android-App-Series)
 
 
   </a>
